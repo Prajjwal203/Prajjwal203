@@ -1,0 +1,81 @@
+.c-white {
+    color: white !important;
+}
+
+.mt-1r {
+    margin-top: 1rem;
+}
+
+hr.vertical {
+    border: 0;
+    margin: 0rem 1rem;
+    border-left: 1px solid black;
+    height: 82px;
+  }
+hr.vertical2 {
+    border: 0;
+    /* margin-top: 1rem; */
+    /* margin-left: 4rem; */
+    border-left: 2px solid white;
+    height: 50px;
+}
+hr.vertical3 {
+    border: 0;
+    /* margin-top: 1rem; */
+    /* margin-left: 4rem; */
+    margin-bottom: 1rem;
+    border-left: 2px solid white;
+    height: 50px;
+}
+hr.vertical4 {
+    border: 0;
+    margin: 0rem 1rem;
+    border-left: 1px solid black;
+    height: 48px;
+  }
+
+.ml-space {
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+.fontS1 {
+    font-family: 'Kanit', sans-serif;
+}
+  
+.nav-height {
+    height: 3.5rem;
+}
+
+.pos-rel {
+    position: relative;
+    bottom: 8px;
+    right: 15px;
+}
+.pos-rel2 {
+    position: relative;
+    bottom: 8px;
+    left: 2.5rem;
+}
+
+.card-width {
+    width: 36%;
+}
+.card-width2 {
+    width: 20%;
+}
+
+.card-pos {
+    position: absolute;
+    top: 6.7rem;
+    right: 0.5rem;
+}
+.card-pos2 {
+    position: absolute;
+    top: 23rem;
+    right: 0.5rem;
+}
+
+.card-shadow {
+    box-shadow: 0px 0px 8px 0px #888888;
+}
